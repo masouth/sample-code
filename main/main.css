@@ -1,0 +1,78 @@
+/*****BASE STYLES*****/
+body {font-family: 'Source Sans Pro', sans-serif;}
+
+#about, #work, #contact {height: 600px;}
+
+/****GRID****/
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-width{
+  width:600px;
+  float:left;
+}
+
+.third-width{
+  width:400px;
+  float:left;
+}
+
+/*****ABOUT SECTION****/
+#about .full-width {
+  padding: 80px 0;
+  font-family:'Lora', sans-serif;
+}
+
+#about h2 {
+  font-family:sans-serif;
+  font-size: 36px;
+  font-family:'Lora', sans-serif;
+}
+
+#about p {
+  font-size: 21px
+  color:#7F7F7F;
+  line-height: 40px;
+  padding-right: 50px;
+}
+
+#about .half-width {
+  color: #7F7F7F;
+}
+
+#about .half-width {
+  color: #7F7F7F;
+}
+
+
+/******WORK SECTION*****/
+#work {
+  background-color: #F9CEB7;
+  text-align: center;
+}
+
+#work .full-width {padding: 115px 0;}
+
+#work img { padding-bottom: 30px;}
+
+#work h3 {
+  font-size: 24px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#work p {
+  font-family: Lora;
+  font-size: 18px;
+  line-height: 125%;
+  color: #2B2B2B;
+  padding: 0 35px;
+}
+
+/*****CONTACT SECTION*****/
+#contact {
+  background-color: #EBEBEB;
+}

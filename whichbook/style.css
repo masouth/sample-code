@@ -1,0 +1,107 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #454545;
+  margin: 0px;
+  padding: 0px;
+  background-color: #ffffff;
+  background-image: url('bkgd2.png');
+}
+.page {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.answer1 {
+  position:absolute;
+  width:14%;
+  top:50%;
+  left:50%;
+  margin-top:-60px;
+  margin-left:400px;
+  font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
+  color: #5b5ea6;
+  text-transform: uppercase;
+}
+
+.answer2 {
+  position:absolute;
+  width:14%;
+  top:50%;
+  left:50%;
+  margin-top:-60px;
+  margin-left:400px;
+  font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
+  color: #5b5ea6;
+  text-transform: uppercase;
+}
+
+.answer3 {
+  position:absolute;
+  width:14%;
+  top:50%;
+  left:50%;
+  margin-top:-60px;
+  margin-left:400px;
+  font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
+  color: #5b5ea6;
+  text-transform: uppercase;
+}
+
+#ficButton {
+  font: 26px 'Montserrat', Helvetica, Arial, sans-serif;
+  border-radius: 5px;
+  border: none;
+  color: #f8f8f8;
+  background-color: #f16059;
+  padding: 10px 75px;
+  display: block;
+  margin: 100 auto;
+}
+
+#fictionButton{
+  font: 26px 'Monsterrat', Helvetica, Arial, sans-serif;
+  border-radius:5px;
+  border: none;
+  color: #f8f8f8;
+  padding: 10px 115px;
+  display: block;
+  margin: 100 auto;
+  background-color:#92b558;
+}
+
+#nonFicButton{
+  font: 26px 'Monsterrat', Helvetica, Arial, sans-serif;
+  border-radius: 5px;
+  border: none;
+  color: #f8f8f8;
+  background-color: #5b5ea6;
+  padding: 10px 85px;
+  display: block;
+  margin: 100 auto;
+}
+header {
+  padding-top: 0.25em;
+  text-align: center;
+}
+header span {
+  font-size: 45px;
+  color: #f16059;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+
+}
+
+footer p {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 115px 400px;
+  padding-left: 425;
+}
